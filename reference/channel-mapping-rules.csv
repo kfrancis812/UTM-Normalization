@@ -1,0 +1,15 @@
+utm_source,utm_medium,channel,subchannel,notes
+facebook,cpc,Social Paid,Facebook,Paid ads on Meta platforms
+facebook,paid,Social Paid,Facebook,Alternate paid medium
+fb,cpc,Social Paid,Facebook,Shortened source variant
+linkedin,cpc,Social Paid,LinkedIn,LinkedIn paid campaigns
+linkedin,paid-social,Social Paid,LinkedIn,Alternate medium
+facebook,social,Social Organic,Facebook,Organic posts
+facebook,organic,Social Organic,Facebook,Alternate organic medium
+linkedin,social,Social Organic,LinkedIn,Organic LinkedIn activity
+google,cpc,Paid Search,Google Ads,Google paid search
+bing,cpc,Paid Search,Bing Ads,Bing paid search
+email,email,Email,Marketing Email,All email campaigns
+marketo,email,Email,Marketing Email,Marketo-sent emails
+direct,(none),Direct,Direct,Direct traffic
+(direct),(none),Direct,Direct,GA4 default direct
